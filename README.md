@@ -1,4 +1,4 @@
-# Juli Manitas del Hogar · Propuesta web
+# Juli Manitas del Hogar · Propuesta web v1
 
 Prototipo de web para Juli Manitas del Hogar, manitas a domicilio en Barcelona, el Vallès y el Maresme.
 
